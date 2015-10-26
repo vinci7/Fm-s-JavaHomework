@@ -1,0 +1,5 @@
+Hello|hi can i help you?
+Goodbye|Goodbye
+Nice to meet you|nice to meet your too
+电池|有关电池的相关回答
+屏幕|有关屏幕的相关回答
